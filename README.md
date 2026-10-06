@@ -1,4 +1,8 @@
 ![image alt](https://github.com/selim107/selim107/blob/d83f355c402c697c4accc835b17297145c7509e8/Selim%20Hossain%20Developer%20Portfolio%20Banner.png)
+
+<h1 align="center">Hi 👋, I'm Selim Hossain</h1>
+
+<h3 align="center"> AI Driven Full Stack Developer </h3>
 ## Hi there 👋
 
 <!--
