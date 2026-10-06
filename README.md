@@ -38,6 +38,14 @@ I am currently learning and improving my skills in JavaScript, React, Next.js an
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=selim107&show_icons=true&theme=tokyonight">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selim107&layout=compact&theme=tokyonight">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=selim107&theme=tokyonight">
+</p>
+
 ## Hi there 👋
 
 <!--
