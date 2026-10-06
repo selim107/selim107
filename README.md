@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Selim Hossain</h1>
 
 <h3 align="center"> AI Driven Full Stack Developer </h3>
+
+## About Me
+I'm a passionate web developer from Bangladesh. I enjoy building modern and responsive web applications.
+I am currently learning and improving my skills in JavaScript, React, Next.js and MongoDB.
 ## Hi there 👋
 
 <!--
