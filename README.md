@@ -36,7 +36,7 @@ I am currently learning and improving my skills in JavaScript, React, Next.js an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=তোমার-username&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=selim107&show_icons=true&theme=tokyonight">
 </p>
 ## Hi there 👋
 
