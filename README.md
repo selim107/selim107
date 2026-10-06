@@ -18,7 +18,7 @@ I am currently learning and improving my skills in JavaScript, React, Next.js an
 - ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,tailwind,git,github,vscode" />
 </p>
 ## Hi there 👋
 
