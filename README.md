@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./profile-banner.png" alt="Selim Hossain Profile Banner" width="100%">
-</p>
+![image alt](https://github.com/selim107/selim107/blob/d83f355c402c697c4accc835b17297145c7509e8/Selim%20Hossain%20Developer%20Portfolio%20Banner.png)
 ## Hi there 👋
 
 <!--
