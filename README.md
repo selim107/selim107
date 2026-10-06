@@ -20,6 +20,24 @@ I am currently learning and improving my skills in JavaScript, React, Next.js an
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,tailwind,git,github,vscode" />
 </p>
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/selim-hossain-5331b3423/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45">
+  </a>
+
+  <a href="https://github.com/selim107">
+    <img src="https://skillicons.dev/icons?i=github" width="45">
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=তোমার-username&show_icons=true&theme=tokyonight">
+</p>
 ## Hi there 👋
 
 <!--
