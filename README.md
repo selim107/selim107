@@ -7,6 +7,13 @@
 ## About Me
 I'm a passionate web developer from Bangladesh. I enjoy building modern and responsive web applications.
 I am currently learning and improving my skills in JavaScript, React, Next.js and MongoDB.
+
+## 🚀 Current Activities
+
+- 🌱 I am exploring Next.js and full-stack development.
+- 💻 I am building responsive web applications with React and Next.js.
+- 📚 I am improving my JavaScript and problem-solving skills.
+- 🔍 I am learning modern authentication and database integration.
 ## Hi there 👋
 
 <!--
