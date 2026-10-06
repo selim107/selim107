@@ -14,6 +14,12 @@ I am currently learning and improving my skills in JavaScript, React, Next.js an
 - 💻 I am building responsive web applications with React and Next.js.
 - 📚 I am improving my JavaScript and problem-solving skills.
 - 🔍 I am learning modern authentication and database integration.
+
+- ## 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
 ## Hi there 👋
 
 <!--
