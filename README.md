@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./profile-banner.png" alt="Selim Hossain Profile Banner" width="100%">
+</p>
 ## Hi there 👋
 
 <!--
